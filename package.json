@@ -1,0 +1,12 @@
+{
+    "name": "youremyprincess",
+    "version": "1.0.0",
+    "description": "you are my princess",
+    "main": ".prettierrc.js",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/@nendrxxx"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
